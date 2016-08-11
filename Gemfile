@@ -39,7 +39,6 @@ gem "simple_form"
 gem "autoprefixer-rails"
 
 source 'https://rails-assets.org' do
-  gem 'rails-assets-plugin'
 end
 
 # Use Capistrano for deployment
