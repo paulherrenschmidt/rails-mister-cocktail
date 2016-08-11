@@ -1,3 +1,4 @@
+ruby '2.3.1'
 source 'https://rubygems.org'
 
 
@@ -28,7 +29,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Gemfile
-ruby '2.3.1'
+
 
 # gem 'pg'
 
